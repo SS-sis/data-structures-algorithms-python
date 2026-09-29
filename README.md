@@ -10,7 +10,7 @@ Python implementations and LeetCode practice covering core data structures and a
 ## LeetCode Solutions
 
 ### Arrays
-- Two Sum
+- [Two Sum](arrays/two_sum.py)
 
 ### Linked Lists
-- Add Two Numbers
+- [Add Two Numbers](linked_lists/add_two_numbers.py)
